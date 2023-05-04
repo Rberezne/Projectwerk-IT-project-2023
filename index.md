@@ -1,6 +1,7 @@
 tittel: Projectwerk: IT-project 
 
 Vestigingsplaats
+===============
 
 Een vestigingsplaats bestaat uit tenminste één lokaal met een switch en een access-point. Elk lokaal vormt een eigen VLAN waarbij het access-point geen deel uitmaakt van dit VLAN..
 Elk access-point vormt een VLAN op zich. Dit vertaalt zich dus in 2 VLAN's per lokaal.De switch van het lokaal kan tot 20 tafels voorzien van een netwerkaansluiting (in een opstelling van één netwerkaansluiting per tafel).
